@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sha1": "2c746fc7ac665da3b24a52c0a27805e02304fa67",
+  "hash_tree_depth": 2,
+  "module_name": "",
+  "description": "",
+  "includes_module_contents": false,
+  "includes_client_contents": true,
+  "total_files": 185961,
+  "total_bytes": 8951353479,
+  "on_disk_bytes": 3427282412,
+  "created": 1729013475,
+  "created_with": "neverwinter 2.0.1 (/8782b4, nim 2.0.2)"
+}
